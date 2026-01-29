@@ -9,7 +9,7 @@ The project features an **interactive dashboard** that visually summarizes large
 
 ## 🔗 Repository Link
 
-🔗 *Add your GitHub repository link here*
+🔗 https://github.com/Yash07-gif/Amazon-Prime-Video-Analysis
 
 ---
 
